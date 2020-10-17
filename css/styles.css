@@ -10147,3 +10147,15 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+#wrapper {
+  width: 500px;
+  border: 1px solid black;
+}
+#first {
+  width: 300px;
+  border: 1px solid red;
+}
+#second {
+  border: 1px solid green;
+}
